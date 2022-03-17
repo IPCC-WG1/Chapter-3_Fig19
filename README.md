@@ -4,7 +4,7 @@ SPEED-UP Of ZONAL MEAN WIND
 Figure number: 3.19
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
 
-![Figure 3.19](../images/ar6_wg1_chap3_figure3_19_zonal_wind_trends.png?raw=true)
+![Figure 3.19](ar6_wg1_chap3_figure3_19_zonal_wind_trends.png?raw=true)
 
 
 Description:
