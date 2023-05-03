@@ -1,5 +1,6 @@
 SPEED-UP Of ZONAL MEAN WIND
 ===========================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6778117.svg)](https://doi.org/10.5281/zenodo.6778117)
 
 Figure number: 3.19
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
